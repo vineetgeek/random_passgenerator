@@ -61,3 +61,20 @@ body{
     background: #9c9c9c;
 }
 
+
+.footer {
+      position:absolute;
+      width:500px;
+      height:100px;
+      color:#ffffff;
+      bottom:0px;
+      right:25%;
+      left:50%;
+      margin-left:-150px;
+      font-size: 2vh;
+      text-decoration: none;
+      z-index: 1000;
+      text-decoration: #ffffff;
+      
+
+  }
